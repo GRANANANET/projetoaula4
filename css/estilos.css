@@ -24,7 +24,7 @@ header > ul >li {
 
 article {
 	background-color: yellow; 
-    margin: 50px 10% 0 10%; 
+    margin: 50px 10% 150px 10%; 
     padding: 15px;
 }
 
@@ -34,5 +34,5 @@ footer {
 	bottom: 0px;
 	width: 100%;
 	background-color: blue;
-	padding: 50px 10px;
+	padding: 10px 10px;
 }
