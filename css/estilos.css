@@ -2,12 +2,12 @@ body {
 	margin: 0;
 }
 
-header{
+#alinhando-header{
 	background-color: green;
 	display: flex;
 	justify-content: space-between; 
 	align-items: center;
-	padding: 20px
+	padding: 20px;
 }
 header > img {
 	border-radius: 50%;
@@ -20,4 +20,18 @@ header > ul >li {
 	display: inline;
 	border-radius: 5px;
 	letter-spacing: 20px;
+}
+
+article {
+	background-color: yellow; 
+    margin: 50px 10% 0 10%; 
+    padding: 15px;
+}
+
+footer {
+	position:  fixed;
+	left: 0px;
+	bottom: 0px;
+	background-color: blue;
+	padding: 50px 10px;
 }
